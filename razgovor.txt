@@ -1,13 +1,13 @@
 /**
- * Primer razgovora za zadatak 
+ * Primer razgovora za zadatak
  */
 object SampleData {
     val conversationSample = listOf(
-        Message(
+        Poruka(
             "Luka",
             "Тест...Тест...Тест..."
         ),
-        Message(
+        Poruka(
             "Luka",
             """Листа Андроид верзија:
             |Андроид КитКат (API 19)
@@ -20,51 +20,51 @@ object SampleData {
             |Андроид 11 (API 30)
             |Андроид 12 (API 31)""".trim()
         ),
-        Message(
+        Poruka(
             "Luka",
             """Почео сам да учим Котлин програмски језик.
             |Пожели ми срећу!""".trim()
         ),
-        Message(
+        Poruka(
             "Luka",
             "Раније је за UI коришћен XML..."
         ),
-        Message(
+        Poruka(
             "Luka",
             """А сада ћемо погледати како ради Jetpack Compose!
             |То је савремени Андроид алат за креирање UI-ја.
             |Поједностављује и убрзава развој корисничког интерфејса на Андроиду.
             |Потребно је мање кода, а користи Котлинов API.""".trim()
         ),
-        Message(
+        Poruka(
             "Luka",
             "Доступан је од API 21+"
         ),
-        Message(
+        Poruka(
             "Luka",
             "Писање Котлина за UI има стрмију криву учења"
         ),
-        Message(
+        Poruka(
             "Luka",
             "Тренутна верзија Android студија се зове Бубамара"
         ),
-        Message(
+        Poruka(
             "Luka",
             "Могу се писати програми и на Јава језику"
         ),
-        Message(
+        Poruka(
             "Luka",
             "Може се покренути емулатор директно из Android студија"
         ),
-        Message(
+        Poruka(
             "Luka",
             "Compose preview је одличан за брзу проверу како изгледа распоред"
         ),
-        Message(
+        Poruka(
             "Luka",
             "Такође је и интерактиван, ако се одабере та опција"
         ),
-        Message(
+        Poruka(
             "Luka",
             "Чујемо се, поздрав"
         ),
