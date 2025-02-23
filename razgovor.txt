@@ -2,7 +2,7 @@
  * Primer razgovora za zadatak
  */
 object SampleData {
-    val conversationSample = listOf(
+    val primerRazgovora = listOf(
         Poruka(
             "Luka",
             "Тест...Тест...Тест..."
